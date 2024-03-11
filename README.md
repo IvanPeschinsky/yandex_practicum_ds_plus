@@ -21,4 +21,4 @@
 | 16 | Временные ряды | [Прогнозирование количества заказов такси на следующий час](16_taxi_prediction) | python, pandas, numpy, matplotlib, statsmodels, sklearn, lightgbm, math | временные ряды, регрессия, предсказания |
 | 17 | Машинное обучение для текстов | [Обучение модели классификации комментариев](17_comments_classifier) | pandas, re, nltk, spacy, sklearn, catboost | Обработка естественного языка, NLP |
 | 18 | Компьютерное зрение | [Обработка фотографий покупателя](18_age_determination) | pandas, matplotlib, keras | Обработка изображени, нейронные сети |
-| 19 | Сборный проект 4 | [Поиск по изображению](19_sborny_4) | pandas, matplotlib, torchvision, transformers, numpy, spacy, seaborn, PIL, sklearn | Обработка изображени, нейронные сети |
+| 19 | Сборный проект 4 | [Поиск по изображению](19_sborny_4) | pandas, matplotlib, torchvision, transformers, numpy, spacy, seaborn, PIL, sklearn | Обработка изображений, нейронные сети |
