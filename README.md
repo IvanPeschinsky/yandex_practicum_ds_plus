@@ -18,3 +18,4 @@
 | 13 | Продвинутый SQL | [Работа с базой данных Stackoverflow](13_advanced_sql_practice) | pandas, matplotlib, seaborn, sqlalchemy | Базы данных, SQL-запросы, визуализация |
 | 14 | Методы и алгоритмы машинного обучения | [Прогнозирование температуры звезды](14_star_temperature) | python, pandas, pytorch | Нейронные сети |
 | 15 | Сборный проект 3 | [Разработка системы предупреждения аварий на каршеринге](15_sborny_3) | python, pandas, numpy, matplotlib, seaborn, sqlalchemy, sklearn, lightgbm, catboost | Базы данных, синтез признаков |
+| 16 | Временные ряды | [Прогнозирование количества заказов такси на следующий час](16_taxi_prediction) | python, pandas, numpy, matplotlib, statsmodels, sklearn, lightgbm, math | временные ряды, регрессия, предсказания |
