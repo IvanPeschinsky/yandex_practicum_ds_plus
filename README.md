@@ -16,3 +16,4 @@
 | 11 | Линейная алгебра | [Защита данных клиентов страховой компании](11_insurance_clients) | python, pandas, numpy, sklearn | Линейная алгебра, регрессия |
 | 12 | Численные методы | [Построение модели определения стоимости автомобиля](12_car_price_prediction) | python, pandas, lgbm | Градиентный бустинг, регрессия |
 | 13 | Продвинутый SQL | [Работа с базой данных Stackoverflow](13_advanced_sql_practice) | pandas, matplotlib, seaborn, sqlalchemy | Базы данных, SQL-запросы, визуализация |
+| 14 | Методы и алгоритмы машинного обучения | [Прогнозирование температуры звезды](14_star_temperature) | python, pandas, pytorch | Нейронные сети |
