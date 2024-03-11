@@ -22,3 +22,4 @@
 | 17 | Машинное обучение для текстов | [Обучение модели классификации комментариев](17_comments_classifier) | pandas, re, nltk, spacy, sklearn, catboost | Обработка естественного языка, NLP |
 | 18 | Компьютерное зрение | [Обработка фотографий покупателя](18_age_determination) | pandas, matplotlib, keras | Обработка изображени, нейронные сети |
 | 19 | Сборный проект 4 | [Поиск по изображению](19_sborny_4) | pandas, matplotlib, torchvision, transformers, numpy, spacy, seaborn, PIL, sklearn | Обработка изображений, нейронные сети |
+| 20 | Выпускной проект | [Оптимизация энергопотребления на металлургическом заводе](20_final_project) | pandas, matplotlib, datetime, seaborn, torch, numpy, phik, sqlalchemy, sklearn, catboost, skorch | Анализ/обработка данных, SQL, машинное обучение, нейросети |
