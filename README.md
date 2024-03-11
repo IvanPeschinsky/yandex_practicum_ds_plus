@@ -20,3 +20,4 @@
 | 15 | Сборный проект 3 | [Разработка системы предупреждения аварий на каршеринге](15_sborny_3) | python, pandas, numpy, matplotlib, seaborn, sqlalchemy, sklearn, lightgbm, catboost | Базы данных, синтез признаков |
 | 16 | Временные ряды | [Прогнозирование количества заказов такси на следующий час](16_taxi_prediction) | python, pandas, numpy, matplotlib, statsmodels, sklearn, lightgbm, math | временные ряды, регрессия, предсказания |
 | 17 | Машинное обучение для текстов | [Обучение модели классификации комментариев](17_comments_classifier) | pandas, re, nltk, spacy, sklearn, catboost | Обработка естественного языка, NLP |
+| 18 | Компьютерное зрение | [Обработка фотографий покупателя](18_age_determination) | pandas, matplotlib, keras | Обработка изображени, нейронные сети |
