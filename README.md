@@ -1,2 +1,2 @@
 # yandex_practicum_ds_plus
-studying project for yandex.practicum
+Учебные проекты, выполненные в рамках расширенного курса Яндекс.Практикума "Специалист Data Science plus"
