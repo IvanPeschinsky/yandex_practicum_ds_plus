@@ -15,4 +15,4 @@
 | 10 | Системы обработки больших данных | [Прогнозирование стоимости жилья](10_real_estate_cost) | python, pandas, sklearn, spark | Большие данные, Spark |
 | 11 | Линейная алгебра | [Защита данных клиентов страховой компании](11_insurance_clients) | python, pandas, numpy, sklearn | Линейная алгебра, регрессия |
 | 12 | Численные методы | [Построение модели определения стоимости автомобиля](12_car_price_prediction) | python, pandas, lgbm | Градиентный бустинг, регрессия |
-| 13 | Продвинутый SQL | [Работа с базой данных Stackoverflow](13_advanced_sql) | pandas, matplotlib, seaborn, sqlalchemy | Базы данных, SQL-запросы, визуализация |
+| 13 | Продвинутый SQL | [Работа с базой данных Stackoverflow](13_advanced_sql_practice) | pandas, matplotlib, seaborn, sqlalchemy | Базы данных, SQL-запросы, визуализация |
